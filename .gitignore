@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Automatically created databases
+marius.db
